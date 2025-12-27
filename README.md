@@ -1,2 +1,2 @@
 # my_profile
-プライベート用リポジトリ
+ButterflyCurtainの自己紹介ページ
